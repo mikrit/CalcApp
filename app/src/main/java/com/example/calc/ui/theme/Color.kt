@@ -7,3 +7,5 @@ val Black500 = Color(0xff292d36)
 
 val Cyan = Color(0xff26dabd)
 val Red = Color(0xffd66060)
+
+val DarkWhite = Color(0xfff9f9f9)
